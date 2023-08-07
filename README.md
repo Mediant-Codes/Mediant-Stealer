@@ -1,13 +1,13 @@
-<h1 align="center"> Creal Stealer </h1> 
-<p align= "center"> <kbd> <img  src="https://i.imgur.com/MjoICHp.png"width="420"> </kbd><br><br>
+<h1 align="center"> Mediant Stealer </h1> 
+<p align= "center"> <kbd> <img  src="https://github.com/Mediant-Codes/Mediant-Stealer/blob/f3348bfab75c35ebce37be0477119b22804e47a7/img/Logo.png"width="420"> </kbd><br><br>
 
 
 
-<p align="center"><a href="https://t.me/CrealStealer" target="_blank">telegram group</a>
+<p align="center"><a href="https://t.me/MediantStealer" target="_blank">telegram group</a>
 
 
-<h2 align="center"> created by; </h1> 
-<p align="center"><a href="https://github.com/Ayhuuu" target="_blank">ayhu</a></p><p align="center"><a href="https://github.com/Art0nus" target="_blank">artonus</a></p>
+<h2 align="center"> Created by; </h1> 
+<p align="center"><a href="https://github.com/Mediant-Codes" target="_blank">Mediant</a></p>
 
 
 
@@ -48,8 +48,8 @@
                                                        🖼️ Pictures
  
 <div align="center">
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://raw.githubusercontent.com/Ayhuuu/Creal-Stealer/main/img/Creal1.jpg"></img> 
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://raw.githubusercontent.com/Ayhuuu/Creal-Stealer/main/img/Creal2.png"></img>
+    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://github.com/Mediant-Codes/Mediant-Stealer/blob/f3348bfab75c35ebce37be0477119b22804e47a7/img/Med1.jpg"></img> 
+    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://github.com/Mediant-Codes/Mediant-Stealer/blob/f3348bfab75c35ebce37be0477119b22804e47a7/img/Med2.png"></img>
     <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://raw.githubusercontent.com/Ayhuuu/Creal-Stealer/main/img/Creal3.png"></img>
     
 </div>
